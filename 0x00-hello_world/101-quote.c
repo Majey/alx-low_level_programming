@@ -5,7 +5,7 @@
  * main - prints exactly "and that piece of art is useful 
  * - Dora Korpar, 2015-10-19",
  * followed by a new line, to the standard output
- * Return: 1 for Success. Other number if failed
+ * Return: 0 for Success. Other number if failed
  */
 int main(void)
 {
